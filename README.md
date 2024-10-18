@@ -4,6 +4,6 @@
 
 # Welcome in my GitHub
 
-A front-end and back-end developer!
+Programing in: html, js, php, css, python, c#
 
 Welcome in My GitHub I'm the Front-End and Back-End Developer and I want to create useful programs and web apps to help everyone!
